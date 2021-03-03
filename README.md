@@ -1,1 +1,1 @@
-Merupakan sebuah aplikasi berbasis mobile android dengan menggunakan bahasa pemograman java dan android studio.
+Is an android based mobile application using the Java programming language and Android Studio.
